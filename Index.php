@@ -112,7 +112,7 @@
       <a href="https://xn----gnco6dwa29cb3z.xn--mgbab2bd/index%C2%B2.php" target="_blank" rel="noopener noreferrer">https://xn----gnco6dwa29cb3z.xn--mgbab2bd/index%C2%B2.php</a>
     </p>
 
-    <div class="footer">© 2025 دولت هوشمند – تمامی حقوق محفوظ و متعلق به اداره اطلاعات جمهوری اسلامی ایران است</div>
+    <div class="footer">© 2025 دولت هوشمند – تمامی حقوق محفوظ و متعلق به قوه قضاییه جمهوری اسلامی ایران است</div>
   </div>
 
 <script>
